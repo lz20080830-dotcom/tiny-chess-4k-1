@@ -1,3 +1,7 @@
+[![make.fun - tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/lz20080830-dotcom/tiny-chess-4k-1/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard)
+[![reward](https://make.fun/badge/tiny-chess-01/lz20080830-dotcom/tiny-chess-4k-1/reward.svg)](https://make.fun/bounty/tiny-chess-01)
+
 # tiny-chess-01
 
 A chess engine in 4,096 bytes of Python for the make.fun
